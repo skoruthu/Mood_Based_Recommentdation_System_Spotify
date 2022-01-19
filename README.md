@@ -13,7 +13,7 @@ The user then selects whether he/she prefers to receive a recommendation for son
 Once the mood is determined, the system will then recommend the top 10 songs which are of similar or opposing moods (as selected). <br>
 
 ### Collaborators
-Widya Salim (@salimwid)<br>
 Gino Martelli Tiu (@ginosytiu)<br>
 Sae Jin Jang (@saejin123)<br>
 Susan Koruthu (@skoruthu) <br>
+Widya Salim (@salimwid)<br>
